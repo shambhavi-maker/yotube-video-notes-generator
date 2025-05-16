@@ -25,7 +25,7 @@ pip install -r requirements.txt
 
 1. Run the Streamlit app:
    ```bash
-   streamlit run yourscript.py
+   streamlit run app.py
    ```
 2. Enter your Google Gemini API key.
 3. Provide the YouTube video URL.
